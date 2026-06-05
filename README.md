@@ -64,5 +64,5 @@ pip install flask
 
 👤 **Sangram Kishore Beura**
 - Github: https://github.com/sangramkishorebeura-2002
-- Linkedin: www.linkedin.com/in/siddhant-panigrahi-ba0041240
-- Email: siddhantpanigrahi6@gmail.com
+- Linkedin: www.linkedin.com/in/sangram-kishore-beura
+- Email: beurasangram2002@gmail.com
